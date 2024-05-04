@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Moderating DCRP"];
+const statusMessages = ["Listening to Kilps"];
 
 
 let currentIndex = 0;
