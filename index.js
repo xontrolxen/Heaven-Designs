@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Killers Market!"];
+const statusMessages = ["Obstruct Market!"];
 
 
 let currentIndex = 0;
