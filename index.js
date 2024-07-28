@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Obstruct Market!"];
+const statusMessages = ["Heaven Designs"];
 
 
 let currentIndex = 0;
