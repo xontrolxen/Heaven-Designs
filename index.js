@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Heaven Designs"];
+const statusMessages = ["DCRP ON TOP!"];
 
 
 let currentIndex = 0;
