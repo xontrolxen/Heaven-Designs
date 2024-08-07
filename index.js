@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["DCRP ON TOP!"];
+const statusMessages = ["WATCHING DCRP"];
 
 
 let currentIndex = 0;
